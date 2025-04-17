@@ -1,0 +1,41 @@
+[33mcommit 521f82b06ed2dd231c9dbd4a88669fc6b3f790f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 10:07:57 2025 -0400
+
+    Created new file in main branch.
+
+[33mcommit 3741239b8645fe15e1bb61da6b93b89f1ed6bb4b[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 10:06:35 2025 -0400
+
+    Created new file in main branch.
+
+[33mcommit 4490049c68874ec4edb46f170d5c496189b0a52b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/branch-3-remote[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 09:57:22 2025 -0400
+
+    Add newRemoteTextFile.txt to branch-3-remote.
+
+[33mcommit 92c0edfe48d6d4094189c5a294fa0f82510bb4f4[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 08:53:35 2025 -0400
+
+    Added new text file to our new branch.
+
+[33mcommit 1d8ce47016e8bf38b99c9839167d9652eb792f5c[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 08:48:18 2025 -0400
+
+    Testing making another new file to push
+
+[33mcommit 6be39a0451cf560d0b78b289a610a963fca1c1ad[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 08:41:43 2025 -0400
+
+    Your commit message here
+
+[33mcommit d8926aed941a353350985b50430a941f084722d3[m
+Author: DMcClellanGit <dylan.mcclellan@techconsulting.tech>
+Date:   Thu Apr 17 08:36:53 2025 -0400
+
+    Initial commit
